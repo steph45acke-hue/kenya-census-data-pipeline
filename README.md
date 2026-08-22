@@ -1,4 +1,7 @@
 # 🇰🇪 Kenya Census Data Pipeline & Analytics
+<p align="center">
+  <img src="banner.jpg" alt="Kenya Census Data Pipeline Banner" width="100%">
+</p>
 
 This project provides a complete, end-to-end data science workflow designed to turn raw, messy government data tables into pristine, actionable insights for all 47 Kenyan counties. We built this to show how rigorous data engineering and statistical analysis can be applied to real-world demographic challenges.
 
